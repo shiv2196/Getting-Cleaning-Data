@@ -42,7 +42,7 @@
     
 ### 12. Then, a second tidy dataset (SecTidySet) was created to calculate the average of each variable of each subject (SubjectID) and each activity (ActivityID). It was done by using 'aggregate()'
 
-### 13. Finally a text file ???TidySet.txt' was created by using write.table() in which the 'SecTidySet' dataset was written.
+### 13. Finally a text file 'TidySet.txt' was created by using write.table() in which the 'SecTidySet' dataset was written.
 
 ##****************************************************************************************************
     
